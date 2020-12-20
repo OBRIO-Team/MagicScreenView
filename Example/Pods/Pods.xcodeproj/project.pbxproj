@@ -131,7 +131,8 @@
 				5415AE6D258573C8003BF056 /* UIButton.swift */,
 				5415AE80258574B7003BF056 /* CALayer.swift */,
 			);
-			path = Extension;
+			name = Extension;
+			path = MagicScreenView/Classes/Extension;
 			sourceTree = "<group>";
 		};
 		7A9CA44C475D8D6844D1EDDD37624437 /* Pod */ = {
