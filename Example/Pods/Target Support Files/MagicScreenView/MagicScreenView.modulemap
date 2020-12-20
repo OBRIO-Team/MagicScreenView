@@ -1,0 +1,6 @@
+framework module MagicScreenView {
+  umbrella header "MagicScreenView-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "MagicScreenView",
+  "version": "0.1.0",
+  "summary": "A short description of MagicScreenView.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/SerhiiMatvieiev/MagicScreenView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "SerhiiMatvieiev": "serhii.matvieiev@gen.tech"
+  },
+  "source": {
+    "git": "https://github.com/SerhiiMatvieiev/MagicScreenView.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "MagicScreenView/Classes/**/*"
+}

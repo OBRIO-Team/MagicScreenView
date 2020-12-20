@@ -1,0 +1,16 @@
+PODS:
+  - MagicScreenView (0.1.0)
+
+DEPENDENCIES:
+  - MagicScreenView (from `../`)
+
+EXTERNAL SOURCES:
+  MagicScreenView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MagicScreenView: 0a1fddfba1ce5f2b828c4b429358fc9819f9ac20
+
+PODFILE CHECKSUM: f31d9a51d1c2504becccd0c3e493b31274ed0233
+
+COCOAPODS: 1.9.3

@@ -1,0 +1,6 @@
+framework module Pods_MagicScreenView_Tests {
+  umbrella header "Pods-MagicScreenView_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
